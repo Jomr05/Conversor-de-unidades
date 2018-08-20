@@ -1,0 +1,12 @@
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.vbprojAssemblyReference.cache
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor_de_unidades.Form1.resources
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor_de_unidades.Resources.resources
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.vbproj.GenerateResource.cache
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.vbproj.CoreCompileInputs.cache
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\bin\Debug\Convertidor de unidades.exe.config
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\bin\Debug\Convertidor de unidades.exe
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\bin\Debug\Convertidor de unidades.pdb
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\bin\Debug\Convertidor de unidades.xml
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.exe
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.xml
+C:\Users\pawn\Source\Repos\Convertidor de unidades\Convertidor de unidades\obj\Debug\Convertidor de unidades.pdb
